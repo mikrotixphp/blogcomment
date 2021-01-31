@@ -8,7 +8,7 @@
  *
  *	-=Options=-
  * 		var 	numComments 	= 5,
- * 			showAvatar 	= true,
+ * 			showAvatar 	= false,
  * 			avatarSize 	= 60,
  * 			roundAvatar	= true,
  * 			showMorelink	= false,
